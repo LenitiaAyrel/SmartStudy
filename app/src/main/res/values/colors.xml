@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="smartstudy_background">#F7F5FC</color>
+    <color name="smartstudy_primary">#6B4FB3</color>
+    <color name="smartstudy_primary_dark">#563C96</color>
+
+    <color name="smartstudy_text">#222222</color>
+    <color name="smartstudy_text_secondary">#666666</color>
+
+</resources>
